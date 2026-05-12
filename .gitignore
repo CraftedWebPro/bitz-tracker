@@ -1,0 +1,37 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Data & logs
+DAILY_CHECK_LIST.xlsx
+app_logs.txt
+data/profile.json
+
+# Playwright browser cache
+ms-playwright/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Temp / test scripts
+test_verify.py
+_fix_config.py
+
+#backup folders
+/backup/
+# excel file record
+DAILY_CHECK_LIST.xlsx
