@@ -59,7 +59,7 @@ Scrape Google Maps · Send WhatsApp outreach · Track follow-ups · Close deals 
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/YOUR_USERNAME/biz-tracker.git
+git clone https://github.com/CraftedWebPro/bitz-tracker.git
 cd biz-tracker
 
 # 2. Run the setup script — installs deps, Playwright, and launches the app
