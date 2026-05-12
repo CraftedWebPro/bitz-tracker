@@ -1,0 +1,57 @@
+2026-05-02 11:18:21 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-02 11:18:21 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-02 11:18:21 - INFO - Scheduler started
+2026-05-02 11:18:45 - INFO - Starting auto-scrape for Tourism in Kalimpong (no_web=False)
+2026-05-02 11:20:58 - INFO - Added 10 leads for Tourism in Kalimpong
+2026-05-10 11:23:48 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-10 11:23:48 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-10 11:23:48 - INFO - Scheduler started
+2026-05-10 11:24:07 - INFO - Starting auto-scrape for School in Siliguri (no_web=False)
+2026-05-10 11:24:21 - INFO - Added 10 leads for School in Siliguri
+2026-05-10 11:30:30 - INFO - Starting auto-scrape for Tourism in Siliguri (no_web=False)
+2026-05-10 11:30:44 - INFO - Added 10 leads for Tourism in Siliguri
+2026-05-10 11:34:27 - INFO - Scheduler has been shut down
+2026-05-12 11:38:33 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 11:38:33 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 11:38:33 - INFO - Scheduler started
+2026-05-12 11:38:51 - INFO - Starting auto-scrape for Tourism in Siliguri (no_web=False)
+2026-05-12 11:39:10 - INFO - Added 10 leads for Tourism in Siliguri
+2026-05-12 11:55:48 - INFO - Scheduler has been shut down
+2026-05-12 11:55:53 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 11:55:53 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 11:55:53 - INFO - Scheduler started
+2026-05-12 12:00:30 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:00:30 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:00:30 - INFO - Scheduler started
+2026-05-12 12:21:39 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:21:39 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:21:39 - INFO - Scheduler started
+2026-05-12 12:21:41 - INFO - Scheduler has been shut down
+2026-05-12 12:22:13 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:22:13 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:22:13 - INFO - Scheduler started
+2026-05-12 12:22:29 - INFO - Scheduler has been shut down
+2026-05-12 12:33:35 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:33:35 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:33:35 - INFO - Scheduler started
+2026-05-12 12:35:18 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:35:18 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:35:18 - INFO - Scheduler started
+2026-05-12 12:37:18 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:37:18 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:37:18 - INFO - Scheduler started
+2026-05-12 12:44:38 - INFO - Scheduler has been shut down
+2026-05-12 12:44:42 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:44:42 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:44:42 - INFO - Scheduler started
+2026-05-12 12:52:14 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:52:14 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:52:14 - INFO - Scheduler started
+2026-05-12 12:55:57 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 12:55:57 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 12:55:57 - INFO - Scheduler started
+2026-05-12 13:01:50 - INFO - Scheduler has been shut down
+2026-05-12 13:02:47 - INFO - Adding job tentatively -- it will be properly scheduled when the scheduler starts
+2026-05-12 13:02:47 - INFO - Added job "AppController.start_followup_scheduler.<locals>.check_due" to job store "default"
+2026-05-12 13:02:47 - INFO - Scheduler started
+2026-05-12 13:03:24 - INFO - Scheduler has been shut down

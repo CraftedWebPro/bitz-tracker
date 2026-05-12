@@ -1,0 +1,6 @@
+openpyxl>=3.0.0
+keyboard>=0.13.5
+pyperclip>=1.8.0
+plyer>=2.1.0
+apscheduler>=3.10.0
+playwright>=1.40.0
