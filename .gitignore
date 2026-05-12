@@ -34,4 +34,4 @@ _fix_config.py
 #backup folders
 /backup/
 # excel file record
-DAILY_CHECK_LIST.xlsx
+/DAILY_CHECK_LIST.xlsx
